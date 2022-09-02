@@ -1,0 +1,17 @@
+{
+    "web": {
+        "client_id": "960864606938-au1s2e70ecbl0vsrta2r6skmeksqju45.apps.googleusercontent.com",
+        "project_id": "sachmeeting",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:3000/meeting/auth/callback"
+        ],
+        "javascript_origins": [
+            "http://localhost:3000"
+        ],
+        "refreshToken": "1//07wrXH-km21RHCgYIARAAGAcSNwF-L9IrCSfDnMAL2dco7DAb_xi4O-ks0vP3__8Kcf9_s6p5BVgLJltLDCh2sCmqguwAzwwag1I"
+    }
+}
